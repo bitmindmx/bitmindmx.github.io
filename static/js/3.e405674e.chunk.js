@@ -1,0 +1,2 @@
+(this["webpackJsonpbitmind-website"]=this["webpackJsonpbitmind-website"]||[]).push([[3],{119:function(t,i,s){"use strict";s.r(i);var e=s(1);i.default=function(t){var i=t.src,s=t.width,c=t.height;return Object(e.jsx)("img",{src:"/img/svg/".concat(i),alt:i,width:s,height:c})}}}]);
+//# sourceMappingURL=3.e405674e.chunk.js.map
